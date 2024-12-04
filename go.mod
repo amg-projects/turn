@@ -1,4 +1,4 @@
-module github.com/pion/turn/v4
+module github.com/amg-projects/turn/v4
 
 go 1.20
 
