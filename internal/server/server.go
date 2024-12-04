@@ -11,8 +11,8 @@ import (
 
 	"github.com/pion/logging"
 	"github.com/pion/stun/v3"
-	"github.com/pion/turn/v4/internal/allocation"
-	"github.com/pion/turn/v4/internal/proto"
+	"github.com/amg-projects/turn/v4/internal/allocation"
+	"github.com/amg-projects/turn/v4/internal/proto"
 )
 
 // Request contains all the state needed to process a single incoming datagram

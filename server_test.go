@@ -16,8 +16,8 @@ import (
 	"github.com/pion/logging"
 	"github.com/pion/transport/v3/test"
 	"github.com/pion/transport/v3/vnet"
-	"github.com/pion/turn/v4/internal/allocation"
-	"github.com/pion/turn/v4/internal/proto"
+	"github.com/amg-projects/turn/v4/internal/allocation"
+	"github.com/amg-projects/turn/v4/internal/proto"
 	"github.com/stretchr/testify/assert"
 )
 

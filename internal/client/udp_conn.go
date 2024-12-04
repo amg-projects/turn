@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/pion/stun/v3"
-	"github.com/pion/turn/v4/internal/proto"
+	"github.com/amg-projects/turn/v4/internal/proto"
 )
 
 const (

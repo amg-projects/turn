@@ -8,7 +8,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/pion/turn/v4/internal/ipnet"
+	"github.com/amg-projects/turn/v4/internal/ipnet"
 )
 
 type permState int32

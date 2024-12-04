@@ -9,9 +9,9 @@ import (
 
 	"github.com/pion/randutil"
 	"github.com/pion/stun/v3"
-	"github.com/pion/turn/v4/internal/allocation"
-	"github.com/pion/turn/v4/internal/ipnet"
-	"github.com/pion/turn/v4/internal/proto"
+	"github.com/amg-projects/turn/v4/internal/allocation"
+	"github.com/amg-projects/turn/v4/internal/ipnet"
+	"github.com/amg-projects/turn/v4/internal/proto"
 )
 
 const runesAlpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
